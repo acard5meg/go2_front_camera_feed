@@ -3,7 +3,7 @@
 ## Package Structure
 
 ```
-my_ros2_ws/src/go2_camra/
+my_ros2_ws/src/go2_camera/
 ├── go2_camera/
 │   ├── __init__.py
 │   └── camera_node.py   # Main navigation code
